@@ -18,8 +18,8 @@ export const PROJECTS: Project[] = [
       "<b>Data Design:</b> 복잡한 시장 규모(TAM-SAM-SOM)와 매출 데이터를 브랜드 컬러인 블루를 활용하여 깔끔하게 도식화"
     ],
     thumbnail: "https://i.ibb.co/WvD5WxWG/sunbaro-12.png",
-    beforeImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMTgx/MDAxNzcwNzA5OTkxMTM5.Me2Q0n6NBvky-uV8C92S2u-s41bw-gfEhf9DO42P6-kg.uPqoe0rwZtwj6bC5Z2YfkYbikjV51bzQDxGKmzFDUTQg.PNG/image.png?type=w966",
-    afterImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMTA4/MDAxNzcwNzEwMDExMzE3.eLTqfUgesuQrGqS0NVDPWY4onMSuHYppnEOcLz0E8dog.04twCKSw2fkgndqDQtAHU0tvAOcRrWBSlJ7ICuJMed0g.PNG/image.png?type=w966",
+    beforeImg: "https://i.ibb.co/39BYtZht/image-4.png",
+    afterImg: "https://i.ibb.co/WvD5WxWG/sunbaro-12.png",
     galleryColorClass: "text-indigo-500",
     galleryImages: [
       "https://i.ibb.co/MygQhZV6/sunbaro-11.png",
@@ -52,8 +52,8 @@ export const PROJECTS: Project[] = [
       "<b>Color Strategy:</b> 의료 분야의 신뢰를 주는 Blue & Mint 컬러 시스템 적용"
     ],
     thumbnail: "https://i.ibb.co/fYnPHhbr/exmo-11.png",
-    beforeImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMjQ1/MDAxNzcwNzEzMzc2ODgx.qyd2gWfK-7iUsL4RL-se5Bgp3dWTlvSKftAklFNU52Mg.5xRm4Mtl82Ol2YUExc-2CG5ccO9JojGcYw8c_D1HYzog.PNG/image.png?type=w966",
-    afterImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMjkg/MDAxNzcwNzExNTMxNjM5.WNLVebtTDRscsb_ai7DE_hzAKTWCulz7XoDf3zwsBIgg.nfHi72AbNV5kMJdNe31-tM--PCxf6BYFJzqCuJAJWgQg.PNG/222.png?type=w966",
+    beforeImg: "https://i.ibb.co/VcVsPrVp/image-3.png",
+    afterImg: "https://i.ibb.co/bgkhscJg/exmo-10.png",
     galleryColorClass: "text-cyan-500",
     galleryImages: [
       "https://i.ibb.co/bgkhscJg/exmo-10.png",
@@ -85,8 +85,8 @@ export const PROJECTS: Project[] = [
       "<b>Diagram:</b> 복잡한 HW/SW 결합 구조를 비전문가도 이해하기 쉬운 도식으로 단순화"
     ],
     thumbnail: "https://i.ibb.co/rRGxr6pZ/aiindustrial-17.png",
-    beforeImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMTIw/MDAxNzcwNzE0MDQ1NDE4.-GZfoIZpiKv9Yb3iUjSu3hc1vjQckjvRGdh7gecZ-JIg.RVhy9l9aEDIFV09rcr9BakvtqYLeEs1jOtNMdPvcTEcg.PNG/image.png?type=w966",
-    afterImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMjQ0/MDAxNzcwNzExOTU0MDE4.lBfDeLhNR3Vc2vbysgvAi2eKss13f6Phvsky3FUAvHUg.aaxxKntgaQK7k4dpIElCqw0Wk_7yrp1Y9ZjzJiDYr_8g.PNG/10.png?type=w966",
+    beforeImg: "https://i.ibb.co/FbvDwcrL/image-2.png",
+    afterImg: "https://i.ibb.co/NdbbY2gb/aiindustrial-7.png",
     galleryColorClass: "text-yellow-500",
     galleryImages: [
       "https://i.ibb.co/hFWGYrp7/aiindustrial-16.png",
@@ -124,8 +124,8 @@ export const PROJECTS: Project[] = [
       "<b>Color Strategy:</b> 깊이감 있는 블루 컬러를 사용하여 전문성과 신뢰감 형성"
     ],
     thumbnail: "https://i.ibb.co/5xK4sMvR/seaflow-19.png",
-    beforeImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMTY3/MDAxNzcwNzE0NDg0NTgz.9e3YajoCGLNcbIY2kBN83_uADVY9rut0oRvRD52J9DAg.OIzGeP3-5sZja-VXgtKO_raBl4JHzHEhKQI6B6br5pUg.PNG/image.png?type=w966",
-    afterImg: "https://postfiles.pstatic.net/MjAyNjAyMTBfMTg3/MDAxNzcwNzExNzg2NjQx.hwah-PwuDGGMY7Y5_hTgoqBSqrWzAsxL1Mpqjg2FxRsg.XnG2QY73jemC2zrJLgjENQlAxxX0pID4WJMiglDCmPog.PNG/02.png?type=w966",
+    beforeImg: "https://i.ibb.co/C3PwnHrw/image-1.png",
+    afterImg: "https://i.ibb.co/bgbk71Zb/seaflow-18.png",
     galleryColorClass: "text-blue-500",
     galleryImages: [
       "https://i.ibb.co/bgbk71Zb/seaflow-18.png",
